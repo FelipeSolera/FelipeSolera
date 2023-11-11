@@ -1,6 +1,6 @@
 ### Olá, sou o Felipe e aqui você pode conhecer um pouco mais sobre meus projetos!
 <p align="center">
-  <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
 
 - 🎲 Data Engineer
